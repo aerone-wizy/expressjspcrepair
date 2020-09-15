@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Hardware Repair",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis ex modi veniam ullam magni soluta itaque voluptates earum molestias voluptatibus, tenetur, inventore, ipsum eveniet fuga atque hic libero provident similique!",
+        "price_range": "$100 - $200"
+    },{
+        "name": "Virus removal",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, voluptatem odio eaque dolorem ad repellendus. Expedita distinctio possimus modi cupiditate sunt iure quae animi debitis? Distinctio praesentium sint id. Ut?",
+        "price_range": "$100 - $150"
+    },{
+        "name": "PC Tune Up",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, laboriosam officiis doloremque fuga assumenda numquam repellendus? Ea dolorem odit consequatur eius esse exercitationem, aperiam, velit nostrum impedit mollitia quos numquam.",
+        "price_range": "$75 - $100"
+    },{
+        "name": "Network Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur libero ipsa labore odit culpa pariatur numquam facilis, sint alias suscipit deleniti, aperiam id quo beatae aspernatur sed? Laborum, molestias suscipit!",
+        "price_range": "$500 - $1000"
+    }
+
+]
